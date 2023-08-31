@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9dcddf5b-2306-4032-ab83-5fef9f83ae86">
+  <producedTypes>
+    <objectType typeId="9d5651c4-5b1b-4fc7-ba7f-20c2d6b50381" valueTypeId="5b32b209-6f3e-4183-99aa-5191abbf10f7"/>
+  </producedTypes>
+  <name>СборкаSQLскриптаДляУдаления</name>
+  <synonym>
+    <key>ru</key>
+    <value>Сборка SQL скрипта для удаления</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="d7e3ab22-c8e4-45ef-973b-904d881e6b47"/>
+  <defaultForm>ExternalDataProcessor.СборкаSQLскриптаДляУдаления.Form.Форма</defaultForm>
+  <forms uuid="4b98be81-4586-434c-8708-56ada2867982">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
