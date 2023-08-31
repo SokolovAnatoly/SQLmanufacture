@@ -29,6 +29,11 @@
     <autoMaxWidth>true</autoMaxWidth>
     <autoMaxHeight>true</autoMaxHeight>
     <placementArea>UserCmds</placementArea>
+    <backColor xsi:type="core:ColorDef">
+      <red>204</red>
+      <green>255</green>
+      <blue>204</blue>
+    </backColor>
     <representationInContextMenu>Auto</representationInContextMenu>
   </items>
   <items xsi:type="form:Button">
@@ -60,6 +65,11 @@
     <autoMaxWidth>true</autoMaxWidth>
     <autoMaxHeight>true</autoMaxHeight>
     <placementArea>UserCmds</placementArea>
+    <backColor xsi:type="core:ColorDef">
+      <red>204</red>
+      <green>255</green>
+      <blue>204</blue>
+    </backColor>
     <representationInContextMenu>Auto</representationInContextMenu>
   </items>
   <items xsi:type="form:Button">
@@ -91,6 +101,11 @@
     <autoMaxWidth>true</autoMaxWidth>
     <autoMaxHeight>true</autoMaxHeight>
     <placementArea>UserCmds</placementArea>
+    <backColor xsi:type="core:ColorDef">
+      <red>204</red>
+      <green>255</green>
+      <blue>204</blue>
+    </backColor>
     <representationInContextMenu>Auto</representationInContextMenu>
   </items>
   <items xsi:type="form:Button">
@@ -122,6 +137,11 @@
     <autoMaxWidth>true</autoMaxWidth>
     <autoMaxHeight>true</autoMaxHeight>
     <placementArea>UserCmds</placementArea>
+    <backColor xsi:type="core:ColorDef">
+      <red>204</red>
+      <green>255</green>
+      <blue>204</blue>
+    </backColor>
     <representationInContextMenu>Auto</representationInContextMenu>
   </items>
   <items xsi:type="form:Button">
@@ -153,6 +173,11 @@
     <autoMaxWidth>true</autoMaxWidth>
     <autoMaxHeight>true</autoMaxHeight>
     <placementArea>UserCmds</placementArea>
+    <backColor xsi:type="core:ColorDef">
+      <red>204</red>
+      <green>255</green>
+      <blue>204</blue>
+    </backColor>
     <representationInContextMenu>Auto</representationInContextMenu>
   </items>
   <items xsi:type="form:Button">
@@ -184,6 +209,11 @@
     <autoMaxWidth>true</autoMaxWidth>
     <autoMaxHeight>true</autoMaxHeight>
     <placementArea>UserCmds</placementArea>
+    <backColor xsi:type="core:ColorDef">
+      <red>204</red>
+      <green>255</green>
+      <blue>204</blue>
+    </backColor>
     <representationInContextMenu>Auto</representationInContextMenu>
   </items>
   <items xsi:type="form:Button">
@@ -215,6 +245,11 @@
     <autoMaxWidth>true</autoMaxWidth>
     <autoMaxHeight>true</autoMaxHeight>
     <placementArea>UserCmds</placementArea>
+    <backColor xsi:type="core:ColorDef">
+      <red>204</red>
+      <green>255</green>
+      <blue>204</blue>
+    </backColor>
     <representationInContextMenu>Auto</representationInContextMenu>
   </items>
   <items xsi:type="form:Button">
@@ -246,6 +281,11 @@
     <autoMaxWidth>true</autoMaxWidth>
     <autoMaxHeight>true</autoMaxHeight>
     <placementArea>UserCmds</placementArea>
+    <backColor xsi:type="core:ColorDef">
+      <red>204</red>
+      <green>255</green>
+      <blue>204</blue>
+    </backColor>
     <representationInContextMenu>Auto</representationInContextMenu>
   </items>
   <items xsi:type="form:FormField">
@@ -1008,7 +1048,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.СборкаSQLскриптаДляУдаления</types>
+      <types>ExternalDataProcessor.СборкаSQLскриптаДляУдаления</types>
     </valueType>
     <view>
       <common>true</common>
